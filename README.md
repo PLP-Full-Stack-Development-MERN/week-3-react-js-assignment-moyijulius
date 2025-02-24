@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Week 3: React.js Fundamentals Assignment**
 
 **Objective:**
@@ -60,3 +61,67 @@
 - Clear and concise documentation.
 - Successful testing of the components.
 
+=======
+# React Assignment (Vite)
+
+A React project demonstrating components, state management, and Tailwind CSS styling using Vite as the build tool.
+
+## Prerequisites
+
+- Node.js (v14+ recommended)
+- npm or yarn
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd react-assignment
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:5173`
+
+
+
+## Preview Production Build
+
+```bash
+npm run preview
+```
+
+## Project Structure
+
+```
+src/
+  ├── components/
+  │   ├── Header.jsx
+  │   ├── Profile.jsx
+  │   └── Counter.jsx
+  ├── App.jsx
+  └── main.jsx
+```
+
+## Features
+
+- Header component with responsive design
+- Profile component with editable user information
+- Counter component demonstrating state management
+- Tailwind CSS styling throughout
+
+## Technologies Used
+
+- React 18
+- Vite
+- Tailwind CSS
+- Modern JavaScript (ES6+)
+>>>>>>> 8d47e96 (initial commit)
