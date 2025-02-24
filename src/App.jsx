@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Header from './components/Header'
+import Header from './components/Header';
 import Profile from './components/Profile'
 import Counter from './components/Counter'
 
